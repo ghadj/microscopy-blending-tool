@@ -1,4 +1,4 @@
-# Microscopy Image Blending Tool
+# Microscopy Blending Tool
 
 This is a simple Python application for blending microscopy images of cell and kernel samples. The app allows you to load two grayscale images, assign them to the blue and green RGB channels, and generate a blended image for visualization.
 
