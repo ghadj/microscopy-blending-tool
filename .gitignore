@@ -1,0 +1,13 @@
+# Python
+*.pyc
+__pycache__
+
+# Virtual Environment
+env/
+.venv/
+
+# Vim
+*.swp
+
+# Misc
+.DS_STORE
