@@ -24,6 +24,8 @@ A preview of the application in action:
 
 ![App Screenshot](./screenshots/Screenshot%202024-11-17%20at%2017.04.32.png)
 
+![Output Screenshot](./screenshots/Sample-output.png)
+
 ## License
 
 This project is open-source and available under the MIT License.
