@@ -2,7 +2,7 @@
 
 This is a simple Python application for blending microscopy images of cell and kernel samples. The app allows you to load two grayscale images, assign them to the blue and green RGB channels, and generate a blended image for visualization.
 
-This project was a quick Sunday experiment (not production-ready).
+This project was a quick Sunday project (not production-ready).
 
 ## Requirements
 
